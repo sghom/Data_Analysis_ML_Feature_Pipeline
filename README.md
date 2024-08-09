@@ -3,12 +3,12 @@ This repository contains a comprehensive data analysis and feature selection pip
 
 1. Dependencies
 The code requires the following Python libraries:
-- pandas
-- matplotlib
-- numpy
-- statsmodels
-- scikit-learn
-- openpyxl
+  - pandas
+  - matplotlib
+  - numpy
+  - statsmodels
+  - scikit-learn
+  - openpyxl
 Install the required libraries using pip
 
 2. Data File
